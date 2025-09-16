@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **REST APIs with Django & DRF**
+- 🔭 I’m currently working on **REST APIs with Django & DRF & FastAPI**
 - 🌱 Learning advanced backend skills including **Celery**, **Docker**, and **DevOps**
-- 💬 Ask me about: **Backend Engineering | Python | Django | PostgreSQL**
+- 💬 Ask me about: **Backend Engineering | Python | Django | FastAPI | PostgreSQL**
 - 📫 Reach me at: **mahdi.jahanfar01@gmail.com**
-- ⚡  Fun fact: I treat each bug as a puzzle waiting to be solved.
+- ⚡  fact: I treat each bug as a puzzle waiting to be solved.
 
 ---
 
